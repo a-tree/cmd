@@ -8,6 +8,14 @@ A Leiningen template for Command line tool.
 lein new cmd <project name>
 ```
 
+## Demo
+
+This is simple example.
+
+https://github.com/a-tree/cljwc
+
+Linux wc command by clojure.
+
 ## License
 
 Copyright © 2019 a-tree
